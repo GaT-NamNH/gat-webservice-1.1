@@ -1,12 +1,12 @@
-package com.gat.gatbook;
+package com.gat.book;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GatbookApplication {
+public class BookApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GatbookApplication.class, args);
+		SpringApplication.run(BookApplication.class, args);
 	}
 }
